@@ -736,7 +736,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     letter-spacing: 0.02em;
 }
 .modal-field {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 .modal-input-wrap {
     position: relative;
@@ -800,7 +800,6 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     letter-spacing: 0.04em;
     padding: 8px 16px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    margin-bottom: 16px
 } 
 
 .modal-checkbox-field-container {
@@ -852,8 +851,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     font-weight: 400;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    display: flex;
-    align-items: center;
+    
 }
 
 .policy-page {
